@@ -9,8 +9,8 @@ const data = {
     {
       id: 20,
       name: 'Sliced bread',
-      description: 'Loaf of fresh sliced wheat bread',
-      quantity: 1,
+      description: 'Loaf of fresh sliced sourdough bread',
+      quantity: 2,
     },
     {
       id: 30,
